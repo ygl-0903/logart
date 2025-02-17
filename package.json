@@ -1,5 +1,5 @@
 {
-  "name": "@yuxia/format-clog",
+  "name": "logart",
   "version": "0.0.1",
   "description": "fotmat/diversify output console log;",
   "module": "dist/esm/index.js",
